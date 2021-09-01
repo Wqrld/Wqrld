@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luc</h1>
-<h3 align="center">A dutch "entrepeneuer" focussing on the tech industry</h3>
+<h3 align="center">A dutch "entrepreneur" focussing on the tech industry</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wqrld&label=Profile%20views&color=0e75b6&style=flat" alt="wqrld" /> </p>
 
