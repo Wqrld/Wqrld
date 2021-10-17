@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **luc@wqrld.net**
 
-- ⚡ Fun fact **I have a minecraft jukebox on my desk**
+- ⚡ Fun fact **I have a working minecraft jukebox on my desk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
