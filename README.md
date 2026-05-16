@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luc</h1>
-<h3 align="center">A dutch "entrepreneur" focussing on the tech industry</h3>
+<h3 align="center">A Dutch "entrepreneur" focussing on the hosting industry</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wqrld&label=Profile%20views&color=0e75b6&style=flat" alt="wqrld" /> </p>
 
@@ -7,15 +7,12 @@
 
 - 🌱 I’m currently (re-)learning **Python**
 
-- 💬 Ask me about **SEO, NodeJS, Tech business ideas**
-
-- 📫 How to reach me **luc@wqrld.net**
+- 💬 Ask me about **SEO, Typescript, Tech business**
 
 - ⚡ Fun fact **I have a working minecraft jukebox on my desk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wereld03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wereld03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luc-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luc-h" height="30" width="40" /></a>
 </p>
 
